@@ -12,5 +12,5 @@
 
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
-  I want to be a better one who love AI in deed!Wish me!
+  I want to be a better one who love AI indeed!Wish me!
 </details>
