@@ -4,8 +4,8 @@
   <samp>
     :wave: Hi! I study in China.
     <br>My current study focuses on AI 
-      <br><em></em> for the amazing things that
-    <br>you do in your software communities :sparkles:<br><br>
+      <br><em></em> for the amazing things that can
+    <br>CHANGE the WORLD. :sparkles:<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
 </p>
